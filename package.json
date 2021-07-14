@@ -1,0 +1,9 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "a portfolio site to display my work",
+  "main": "index.js",
+  "author": "Orel Barclay",
+  "license": "MIT",
+  "private": false
+}
